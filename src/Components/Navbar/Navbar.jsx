@@ -23,7 +23,7 @@ const Navbar = () => {
         <a>Settings</a>
       </div>
     </nav>
-  );
+  ); 
 };
 
 export default Navbar;
