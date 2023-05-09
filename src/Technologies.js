@@ -13,4 +13,4 @@ const Technologies = () => {
       );
   }
 
-  export default Technologies;
+  export default Technologies; 

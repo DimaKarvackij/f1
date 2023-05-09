@@ -17,7 +17,7 @@ const Navbar = () => {
           <div className={s.item}>
             <a>Music</a>
           </div>
-          <div className={s.item}>
+          <div className={s.item}> 
             <a>Settings</a>
           </div>
         </div>
